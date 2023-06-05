@@ -1,0 +1,27 @@
+---
+componentName:   uOS
+welcomeStyleCalamares: true
+
+strings:
+    productName:         ulyanovskOS
+    shortProductName:    uOS
+    version:             XA
+    shortVersion:        XA
+    versionedName:       uOS
+    shortVersionedName:  uOS
+    bootloaderEntryName: Debian
+    productUrl:          
+    supportUrl:          
+    releaseNotesUrl:     
+
+images:
+    productLogo:         "uOS-logo.png"
+    productIcon:         "uOS-logo.png"
+    productWelcome:      "uOS.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#2c3133"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#4d7079"
